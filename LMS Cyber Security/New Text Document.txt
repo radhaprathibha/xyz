@@ -1,0 +1,8 @@
+1. https://www.greycampus.com/opencampus/ethical-hacking/phases-of-hacking
+2. https://www.calcomsoftware.com/your-first-5-steps-in-linux-server-hardening/#:~:text=Here%20are%205%20fundamental%20hardening,Configure%20SSH
+3. https://linuxhandbook.com/ssh-hardening-tips/
+4. https://owasp.org/www-project-top-ten/
+5. https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-vulnerabilities/
+6. https://www.geeksforgeeks.org/difference-between-ios-and-android/?ref=rp
+7. https://brightsec.com/blog/owasp-mobile-top-10/#owasp-mobile-security-top-10
+8. https://ipwithease.com/network-vulnerabilities-and-the-osi-model/
